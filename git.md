@@ -23,7 +23,7 @@ git pull origin master	//上面命令表示，取回 origin/master 分支，再�
 4.上传
 
 ```
-git push 
+git push origin master
 ```
 
 
